@@ -35,21 +35,21 @@ I-am-hillary@codegrann
 
 <!-- <hr> -->
 <h3 align="center">Connect with me at:</h3>
-<p align="center">
+<p align="center" style="text-align:center;">
   <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
   &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" ></img></a>
+  <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-gmail-48.png" width="40" align="center" ></img></a>
+  <a href=""><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-instagram-48(1).png" width="40" align="center" ></img></a>
+  <a href=""><img src="assets/icons8-instagram-48(1).png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
   <!-- <a href=""><img src="assets/icons8-medium-48.png" width=""></img></a> -->
-  <a href=""><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""></img></a>
+  <a href=""><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""/></a>
   &nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-twitter-48.png" width="40" align="center" ></img></a>
+  <a href=""><img src="assets/icons8-twitter-48.png" width="40" align="center" /></a>
    &nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-github-64.png" width="40" align="center" ></img></a>
+  <a href=""><img src="assets/icons8-github-64.png" width="40" align="center" /></a>
 </p>
 
 <hr>
