@@ -45,7 +45,7 @@ I-am-hillary@codegrann
   <a href="https://www.instagram.com/codgramm/"><img src="assets/icons8-instagram-48(1).png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
   <!-- <a href=""><img src="assets/icons8-medium-48.png" width=""></img></a> -->
-  <a href="https://medium.com/@omondihills02"><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""/></a>
+  <a href="https://medium.com/@codegram_c"><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""/></a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/codegram_c"><img src="assets/icons8-twitter-48.png" width="40" align="center" /></a>
    &nbsp;&nbsp;
