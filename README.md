@@ -1,8 +1,3 @@
-# JS-functional-OO-programming
-
-Programming paradigms.
-These are chunks of codes to help understand the paradigms of programming in Javascript.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -12,7 +7,7 @@ These are chunks of codes to help understand the paradigms of programming in Jav
   </ul>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5003&pause=1000&color=22F72A&vCenter=true&width=435&lines=Software+Developer;Front-End+Engineer;Computer+Science+Graduate;Freelancer;AI+%7C+ML+%7C+DS+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5003&pause=1000&color=22F72A&vCenter=true&width=435&lines=Software+Developer;Front-End+Engineer;Computer+Science+Graduate;Freelancer;AI+%7C+ML+%7C+DS+Enthusiast" alt="Typing SVG" style="position:relative; top:3rem" /></a>
 <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
 
 <div align="center">
