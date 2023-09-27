@@ -38,22 +38,11 @@ I-am-hillary@codegrann
 ```
 
 <!-- <hr> -->
-<h3 align="center">Connect with at:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" ></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-gmail-48.png" width="40" align="center" ></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-instagram-48(1).png" width="40" align="center" ></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- <a href=""><img src="assets/icons8-medium-48.png" width=""></img></a> -->
-  <a href=""><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""></img></a>
-  &nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-twitter-48.png" width="40" align="center" ></img></a>
-   &nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-github-64.png" width="40" align="center" ></img></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -66,7 +55,6 @@ I-am-hillary@codegrann
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<img src="https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000" style=""/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <br>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -97,9 +85,6 @@ I-am-hillary@codegrann
 |                                                                                                  Vishal's Stars                                                                                                   |                                                           Top Languages                                                           |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegrann&langs_count=8&theme=algolia&layout=compact) |
-
-## Trophies
-![](https://github-profile-trophy.vercel.app/?username=codegrann&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <table style="border: none">
   <tr>
