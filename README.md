@@ -35,7 +35,7 @@ I-am-hillary@codegrann
 
 <!-- <hr> -->
 <h3 align="center">Connect with me at:</h3>
-<p align="center" style="text-align:center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
   &nbsp;&nbsp;&nbsp;
   <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a>
@@ -54,7 +54,7 @@ I-am-hillary@codegrann
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="center" style="text-align:center;>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
