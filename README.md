@@ -34,7 +34,7 @@ I-am-hillary@codegrann
 ```
 
 <!-- <hr> -->
-<h3 align="center">Connect with at:</h3>
+<h3 align="center">Connect with me at:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
   &nbsp;&nbsp;&nbsp;
@@ -85,12 +85,10 @@ I-am-hillary@codegrann
 
 ## GitHub Stats
 
-|                                                    Codegrann's Stats                                                     |
-| :----------------------------------------------------------------------------------------------------------------------: | --- |
-| ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia) |     |
-|       ![Codegrann's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codegrann&theme=algolia)       |
+| ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia)  
+ ![Codegrann's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codegrann&theme=algolia) |
 
-|                                                                                                  Vishal's Stars                                                                                                   |                                                           Top Languages                                                           |
+|                                                                                                 Codegrann's Stars                                                                                                 |                                                           Top Languages                                                           |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegrann&langs_count=8&theme=algolia&layout=compact) |
 
