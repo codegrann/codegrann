@@ -38,7 +38,7 @@ I-am-hillary@codegrann
 <p align="center">
   <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
   &nbsp;&nbsp;&nbsp;
-  <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a>
+  <!-- <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:omondihills02@gmail.com"><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
