@@ -96,6 +96,10 @@ I-am-hillary@codegrann
 
 ![](https://github-profile-trophy.vercel.app/?username=codegrann&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## DevCard
+
+<a href="https://app.daily.dev/hillaryomondi"><img src="https://api.daily.dev/devcards/v2/jThWkk8mweD2K7ETuCFFo.png?type=default&r=y3t" width="356" alt="Hillary Omondi's Dev Card"/></a>
+
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
