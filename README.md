@@ -14,6 +14,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+![Snake animation](https://github.com/codegrann/codegrann/blob/output/github-contribution-grid-snake.svg)
 <!--- snake -->
 
 <img align="left" src="https://avatars.githubusercontent.com/u/94289940?s=400&u=b86f38948e740bd1497bd7575085099033ead2cc&v=4" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" height="300" style="border-radius:50%; position:relative; top:2rem;" />
