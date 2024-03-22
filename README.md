@@ -88,7 +88,8 @@ I-am-hillary@codegrann
 
 ## GitHub Stats
 
-| ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia)  
+| ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=codegrann)](https://git.io/streak-stats)
  ![Codegrann's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codegrann&theme=algolia) |
 
 |                                                                                                 Codegrann's Stars                                                                                                 |                                                           Top Languages                                                           |
