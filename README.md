@@ -98,6 +98,13 @@ I-am-hillary@codegrann
 
 ![](https://github-profile-trophy.vercel.app/?username=codegrann&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## Wakatime Stats
+<img
+  src="https://github.com/codegrann/codegrann/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+
+
 ## DevCard
 
 <a href="https://app.daily.dev/hillaryomondi"><img src="https://api.daily.dev/devcards/v2/jThWkk8mweD2K7ETuCFFo.png?type=default&r=y3t" width="356" alt="Hillary Omondi's Dev Card"/></a>
@@ -110,7 +117,7 @@ I-am-hillary@codegrann
 
 If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a>, <a href="">Upwork</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to develop and deploy your project on the web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a>, <a href="">Upwork</a> or <a href="https://www.linkedin.com/in/hillaryomondi/">LinkedIn</a> to develop and deploy your project on the web.
 
   </td>
   <td width="50%" valign="top">
