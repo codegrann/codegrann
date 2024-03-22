@@ -90,8 +90,8 @@ I-am-hillary@codegrann
 
 ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia) 
 <picture>
-    <source media="(prefers-color-scheme: algolia)" srcset="https://streak-stats.demolab.com?user=codegrann&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=codegrann&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=codegrann&theme=algolia" />
+    <img src="https://streak-stats.demolab.com?user=codegrann&theme=algolia" />
 </picture>
  <!-- ![Codegrann's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codegrann&theme=algolia) --> 
 
