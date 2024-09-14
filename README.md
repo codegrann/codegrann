@@ -42,7 +42,7 @@ I-am-hillary@codegrann
   &nbsp;&nbsp;&nbsp;
   <!-- <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a> -->
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:omondihills02@gmail.com"><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
+  <a href="mailto:renderer721@gmail.com"><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/codgramm/"><img src="assets/icons8-instagram-48(1).png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
