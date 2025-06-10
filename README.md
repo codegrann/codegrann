@@ -7,16 +7,8 @@
   </ul>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5003&pause=1000&color=22F72A&vCenter=true&width=435&lines=Software+Developer;Front-End+Engineer;Computer+Science+Graduate;Freelancer;AI+%7C+ML+%7C+DS+Enthusiast" alt="Typing SVG" style="position:relative; top:7rem" /></a>
-<!--<img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5003&pause=1000&color=22F72A&vCenter=true&width=435&lines=Software+Developer;Front-End+Engineer;Computer+Science+Graduate;Freelancer" alt="Typing SVG" style="position:relative; top:7rem" /></a>
 
-<!--<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-
-![Snake animation](https://github.com/codegrann/codegrann/blob/output/github-contribution-grid-snake.svg)
-<!--- snake -->
 
 <img align="left" src="https://avatars.githubusercontent.com/u/94289940?s=400&u=b86f38948e740bd1497bd7575085099033ead2cc&v=4" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" height="300" style="border-radius:50%; position:relative; top:2rem;" />
 <hr>
@@ -27,12 +19,10 @@ I-am-hillary@codegrann
 💻 I am a self taught Web Developer
 📚 I have a Bachelors in Mathematics and Computer Science from the University of JKUAT in Kenya
 📝 I have a strong interest in Machine Learning and Artificial Intelligence
-🔭 Working on Reactjs and Nextjs
+🔭 Working on ExpressJs and Nextjs
 🌱 Learning about Computer Vision and Cloud Computing
-🌟 Main languages: JavaScript
-🚩 Interested in Full Stack Application development
-💖 In a complicated relationship with Cyber Security
-🎵 Love afropop, rnb, and any soft music
+🌟 Main languages: JavaScript, TypeScript, Python
+🚩 Building Full Stack Applications
 ```
 
 <!-- <hr> -->
@@ -42,14 +32,14 @@ I-am-hillary@codegrann
   &nbsp;&nbsp;&nbsp;
   <!-- <a href=""><img src="assets/icons8-discord-48.png" width="40" align="center" /></a> -->
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:renderer721@gmail.com"><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
+  <a href="mailto:hillaryomondi.dev@gmail.com"><img src="assets/icons8-gmail-48.png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/codgramm/"><img src="assets/icons8-instagram-48(1).png" width="40" align="center" /></a>
   &nbsp;&nbsp;&nbsp;
   <!-- <a href=""><img src="assets/icons8-medium-48.png" width=""></img></a> -->
   <a href="https://medium.com/@codegram_c"><img src="assets/icons8-medium-64.png" width="65" align="center"  style=""/></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/codegram_c"><img src="assets/icons8-twitter-48.png" width="40" align="center" /></a>
+  <a href="https://x.com/codegram_c"><img src="assets/icons8-twitter-48.png" width="40" align="center" /></a>
    &nbsp;&nbsp;
   <a href="https://github.com/codegrann"><img src="assets/icons8-github-64.png" width="40" align="center" /></a>
 </p>
@@ -120,9 +110,9 @@ I-am-hillary@codegrann
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:omondihills02@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:hillaryomondi.dev@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/hillaryomond">Fiverr</a>, <a href="">Upwork</a> or <a href="https://www.linkedin.com/in/hillaryomondi/">LinkedIn</a> to develop and deploy your project on the web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/hillaryomondi/">LinkedIn</a> to develop and deploy your project on the web.
 
   </td>
   <td width="50%" valign="top">
