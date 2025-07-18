@@ -25,7 +25,7 @@ I-am-hillary@codegrann
 🚩 Building Full Stack Applications
 ```
 
-<!-- <hr> -->
+ <hr> 
 <h3 align="center">Connect with me at:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hillaryomondi/"><img src="assets/icons8-linkedin-48.png" width="50" align="center" ></img></a>
@@ -55,6 +55,8 @@ I-am-hillary@codegrann
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <img src="https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000" style=""/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <br>
@@ -71,14 +73,12 @@ I-am-hillary@codegrann
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
-  <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
 </p>  
 <hr>
 
 ## GitHub Stats
 
-![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia) 
+<!-- ![Codegrann's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=codegrann&show_icons=true&theme=algolia) -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=codegrann&theme=algolia" />
     <img src="https://streak-stats.demolab.com?user=codegrann&theme=algolia" />
@@ -100,9 +100,10 @@ I-am-hillary@codegrann
 /> -->
 
 
-## DevCard
+<!-- ## DevCard
 
 <a href="https://app.daily.dev/hillaryomondi"><img src="https://api.daily.dev/devcards/v2/jThWkk8mweD2K7ETuCFFo.png?type=default&r=y3t" width="356" alt="Hillary Omondi's Dev Card"/></a>
+-->
 
 <table style="border: none">
   <tr>
